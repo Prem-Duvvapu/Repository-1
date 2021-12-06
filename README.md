@@ -36,3 +36,13 @@ s.no|name|reg. no.
 2|Dinesh|E0
 3|Veera|E1
 4|Sai|I1
+
+~~Strikethrough~~
+
+:smile:
+:expressionless:
+:sunglasses:
+
+>Quote
+
+![image](https://docs.github.com/assets/images/help/writing/image-rendered.png#gh-light-mode-only)
